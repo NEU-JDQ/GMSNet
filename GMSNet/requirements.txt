@@ -1,0 +1,20 @@
+
+
+# Model Architectures & Hugging Face
+transformers
+timm
+
+# Data Processing & Computation
+numpy
+pandas
+scikit-learn
+
+# Image Processing
+Pillow
+opencv-python
+
+# Utilities
+tqdm
+# Local DeBERTa tokenizer and visual checkpoint format
+sentencepiece
+safetensors
